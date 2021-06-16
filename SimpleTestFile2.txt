@@ -1,1 +1,2 @@
 This is simple file 2
+This test for diff 2
