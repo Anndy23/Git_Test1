@@ -1,24 +1,3 @@
+Git Revert Commit 1
+
 This is simple file 1
-
-
-Testing your SSH connection
-
-
-After you've set up your SSH key and added it to your GitHub account, you can test your connection.
-
-Mac
-Windows
-Linux
-Before testing your SSH connection, you should have:
-
-Checked for existing SSH keys
-Generated a new SSH key
-Added a new SSH key to your GitHub account
-When you test your connection, you'll need to authenticate this action using your password, which is the SSH key passphrase you created earlier. For more information on working with SSH key passphrases, see "Working with SSH key passphrases".
-
-Open Terminal.
-Enter the following:
-$ ssh -T git@github.com
-# Attempts to ssh to GitHub
-You may see a warning like this:
-
